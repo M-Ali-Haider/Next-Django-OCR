@@ -35,7 +35,7 @@ const Form = () => {
   };
 
   return (
-    <div className="w-full mt-5 bg-[#f8f9ff] border border-[#d2d4d5] rounded-2xl p-5 flex gap-4">
+    <div className="w-full mt-5 bg-[#f2f6ff] border border-[#f4f4f4] rounded-2xl p-5 flex gap-4">
       <div className="w-[324px] aspect-[324/392] bg-[#bbc5ff] relative">
         <Image
           src={image || "/sample.png"}
